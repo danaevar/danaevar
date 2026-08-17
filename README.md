@@ -74,7 +74,3 @@ My research includes work in Earth Observation, environmental monitoring, Arctic
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Danai_Varvatsouli-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danaivarvatsouli/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ZCl908YAAAAJ)
 [![GitHub](https://img.shields.io/badge/GitHub-danaevar-181717?style=flat&logo=github&logoColor=white)](https://github.com/danaevar)
-
-## 📊 GitHub Overview
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danaevar&layout=compact&hide_border=true)
