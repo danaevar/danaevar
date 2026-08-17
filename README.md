@@ -4,8 +4,7 @@
 
 I'm a geospatial and environmental researcher with a background in Geography and Geoinformatics, currently focusing on Earth Observation, GIS, environmental data analysis, and ecosystem science.
 
-📍 Lund, Sweden  
-🎓 MSc student in Physical Geography & Ecosystem Science at Lund University  
+📍 Lund, Sweden   
 🛰️ Interested in Earth Observation, Arctic environments, glaciers, vegetation dynamics & climate change
 
 ## 👩‍💻 About Me
