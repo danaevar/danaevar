@@ -16,7 +16,7 @@ I'm a geospatial and environmental researcher with a background in Geography and
 - 🔬 Experience in European research projects and scientific publications
 - 🌍 Interested in using geospatial technologies to understand environmental change
 
-- ## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 ### 🗺️ GIS & Earth Observation
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=esri&logoColor=white)
@@ -37,15 +37,27 @@ I'm a geospatial and environmental researcher with a background in Geography and
 
 ## 🚀 Featured Projects
 
-### 🧊 Glacier Mass Analysis
-Analysis of global glacier mass-change data to explore temporal trends in glacier mass loss.  
+### 🌲 Forest Vegetation Dynamics in Söderåsen National Park
+
+Sentinel-2 analysis of summer vegetation greenness and spatial change between 2019 and 2025 in Söderåsen National Park and its surrounding landscape.
+
+`Python` `Sentinel-2` `NDVI` `GIS` `Remote Sensing` `Change Detection`
+
+➡️ [View Project](https://github.com/danaevar/forest-vegetation-dynamics)
+
+### 🧊 Global Glacier Mass Loss Analysis
+
+Analysis of global glacier mass-change data (2000–2023) to investigate long-term glacier mass-loss trends and their contribution to sea-level rise.
+
 `Python` `Pandas` `Data Analysis` `Data Visualization` `Climate Data`
 
 ➡️ [View Project](https://github.com/danaevar/glacier-mass-analysis)
 
 ### 🛰️ Glacier Monitoring in Svalbard
-Remote sensing analysis of glacier dynamics in Kongsvegen and Kronebreen using Sentinel-1 SAR imagery and offset tracking.  
-`Sentinel-1` `SAR` `SNAP` `Glacier Dynamics` `Remote Sensing
+
+Remote sensing analysis of glacier dynamics in Kongsvegen and Kronebreen using Sentinel-1 SAR imagery and offset tracking.
+
+`Sentinel-1` `SAR` `SNAP` `Glacier Dynamics` `Remote Sensing`
 
 ## 📚 Research & Publications
 
@@ -63,5 +75,6 @@ My research includes work in Earth Observation, environmental monitoring, Arctic
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ZCl908YAAAAJ)
 [![GitHub](https://img.shields.io/badge/GitHub-danaevar-181717?style=flat&logo=github&logoColor=white)](https://github.com/danaevar)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danaevar&layout=compact&hide_border=true)
+## 📊 GitHub Overview
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danaevar&layout=compact&hide_border=true)
